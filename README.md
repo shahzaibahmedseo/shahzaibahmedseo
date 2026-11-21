@@ -4,7 +4,7 @@
 
 I help websites get found on Google. Three years of experience across technical SEO, on-page and off-page optimization, website audits and keyword research, with WordPress and Shopify development alongside, so the sites I optimize are built right in the first place.
 
-🌐 **Portfolio:** https://shahzaibceo06-stac.github.io
+🌐 **Portfolio:** https://shahzaibahmedseo.github.io
 ✉ **Contact:** shahzaibceo06@gmail.com
 
 ## What I Do
