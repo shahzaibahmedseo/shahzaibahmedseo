@@ -27,6 +27,19 @@ Google Search Console · Google Analytics · Bing Webmaster Tools · Ahrefs · R
 - **Renewables First** (renewablesfirst.org): SEO for an energy think tank in Pakistan
 - **Snydex Travel** (snydextravel.com): SEO for a travel website
 
+## SEO Audit & Optimisation Projects
+
+Full technical SEO audits with before-and-after reviews, delivered as complete reports (the reports themselves are on my portfolio site):
+
+- **Ajwa Tours** (ajwatour.co.uk): health 69 at audit, 248 issues worked through
+- **Chauffeur Me Travel** (chauffeur-me-travel.com): health 68 at audit, 616 issues addressed
+- **F&S Travel** (fstravel.co.uk): Ahrefs audit, health score 100, 248 issues reviewed
+- **Faciliserv** (faciliserv.nl): technical SEO and AI visibility fixes
+- **Punjab Exotic Foods** (punjabexoticfoods.co.uk): health 89 at audit, 174 issues
+- **S&S Documents** (sandsdocument.com): health 89 at audit, 644 issues, PageSpeed review included
+- **Zenstone** (zenstone.co.uk): health 99 maintained, warnings cut from 837 to 731
+- **Zenvillas** (zenvillas.co.uk): health 93 at audit, 137 issues
+
 ## Experience
 
 - **Digital Media Manager, Daain Communication** (2025 – 2026): WordPress, SEO and social media marketing for client websites
