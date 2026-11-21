@@ -2,7 +2,7 @@
 
 **SEO Specialist & WordPress Developer** · Islamabad, Pakistan · Working worldwide
 
-I help websites get found on Google. Three years of experience across technical SEO, on-page and off-page optimization, website audits and keyword research, with WordPress and Shopify development alongside, so the sites I optimize are built right in the first place.
+I help websites get found on Google. Three years of experience and 65+ SEO projects delivered across technical SEO, on-page and off-page optimization, website audits and keyword research, with WordPress and Shopify development alongside, so the sites I optimize are built right in the first place.
 
 🌐 **Portfolio:** https://shahzaibahmedseo.github.io
 ✉ **Contact:** shahzaibceo06@gmail.com
